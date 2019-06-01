@@ -1,6 +1,6 @@
 // Widescreens
 @include mediaXL {
-  \ .projects {
+  .projects {
     grid-template-columns: repeat(3, 1fr);
   }
 }
@@ -43,7 +43,7 @@
     transform: translate3d(100%, 0, 0);
 
     .portrait {
-      background: url("../img/portrait_small.jpg");
+      background: url("../img/port_small.jpg");
       width: 150px;
       height: 150px;
     }
