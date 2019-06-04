@@ -5,4 +5,4 @@
 - JAVASCRIPT
 - SASS
 
-[Preview =>](https://chsaqib.github.io/responsive_portfolio/)
+Click this => [Preview](https://chsaqib.github.io/responsive_portfolio/)
